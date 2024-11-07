@@ -1,0 +1,104 @@
+Version 1.0.10.1
+	Fixed:
+		- Improve theme scripts
+
+Version 1.0.10
+	Added:
+        - WP 6.6.2 compatibility
+
+    Fixed:
+        - Update plugins to their latest version
+    
+    Removed:
+        - Elegro Crypto Payment plugin
+
+Version 1.0.9
+    Added:
+        - WP 6.5.3 compatibility
+        - Compatibility with The GDPR Framework plugin
+
+    Fixed:
+        - Improve theme styles
+        - Update plugins to their latest version
+        - Scripts libraries are updated
+
+    Changed:
+        - Update demo data
+    
+    Removed:
+        - Cookie Information plugin
+
+Version 1.0.8
+    Added:
+    	- WP 6.4.2 compatibility
+    	- Added: TikTok & Twitter (x) icons
+
+    Fixed:
+    	- Improve theme styles
+    	- Update plugins to their latest version
+    	- Scripts libraries are updated
+
+    Changed:
+    	- Update demo data
+
+Version 1.0.7
+	Added:
+		- Style compatibility with AI Helper shortcodes
+		- TikTok & Twitter (x) icons
+
+Version 1.0.6
+	Added:
+		- WP 6.2.2 compatibility
+
+	Fixed:
+		- Update plugins to their latest versions
+		- Theme styles
+
+	Changed:
+		- Update demo data
+
+Version 1.0.5 
+	Fixed:
+	- Update plugins to their latest versions
+	- Theme styles
+
+	Changed:
+	- Update demo data
+
+Version 1.0.4
+	Fixed:
+	- Update plugins to their latest versions
+	- Theme styles
+
+	Changed:
+	- Update demo data
+
+Version 1.0.3
+	Added:
+	- Smash Balloon Instagram Feed plugin
+
+	Fixed:
+	- Update plugins to their latest versions
+
+	Changed:
+	- Update demo data
+
+Version 1.0.2
+	Fixed:
+	- Update plugins to their latest versions
+
+	Changed:
+	- Update demo data
+
+Version 1.0.1
+	Added:
+	- WP 5.8 compatibility
+
+	Fixed:
+	- Update plugins to their latest versions
+
+	Changed:
+	- Update demo data
+
+Version 1.0.0
+    	Release
