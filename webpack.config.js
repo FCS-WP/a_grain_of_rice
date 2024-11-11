@@ -53,10 +53,10 @@ module.exports = [
               loader: "sass-loader",
               options: {
                 sourceMap: true,
-                sassOptions: {
-                  outputStyle: "compressed",
-                },
-                additionalData: `@import "${destChildTheme}/assets/sass/_mixins";`,
+                // sassOptions: {
+                //   outputStyle: "compressed",
+                // },
+                additionalData: `@use "${destChildTheme}/assets/sass/_mixins";`,
               },
             },
           ],
