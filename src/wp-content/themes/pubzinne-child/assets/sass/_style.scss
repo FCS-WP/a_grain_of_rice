@@ -91,3 +91,8 @@ button.single_add_to_cart_button.sc_button_hover_slide_left {
 .scheme_default .sc_layouts_menu_nav > li > a {
   padding: 10px 15px !important;
 }
+.menu-item.menu-item-has-children{
+  .menu-item a{
+    padding-left: 20px !important;
+  }
+}
