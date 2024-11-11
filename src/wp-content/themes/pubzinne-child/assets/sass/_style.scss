@@ -1,0 +1,93 @@
+@use "variables" as *;
+.logo-white img,
+.menu_mobile .sc_layouts_logo img {
+  filter: brightness(0) invert(1);
+}
+.cta-button {
+  margin-left: 0px !important;
+}
+.header-menu {
+  a,
+  span {
+    font-weight: bold !important;
+    color: $main-color !important;
+    font-family: "DINCondensed", sans-serif;
+    font-size: 18px !important;
+  }
+}
+.scheme_default .sc_layouts_menu_nav > li ul {
+  background: #fff !important;
+}
+.main-font {
+  font-weight: bold !important;
+  font-family: "DINCondensed", sans-serif;
+  font-size: 18px !important;
+}
+
+.scheme_dark .sc_button_default.sc_button_hover_slide_left,
+.scheme_dark .sc_button.sc_button_hover_slide_left {
+  color: #fff !important;
+  background: $second-color !important;
+}
+.scheme_default .trx_addons_scroll_to_top.sc_button_hover_slide_left,
+.scheme_default .woocommerce span.onsale {
+  color: #fff !important;
+  background: $second-color !important;
+}
+.custom-table .ot-dtp-picker-button.sc_button_hover_slide_left {
+  color: #fff !important;
+  background: $second-color !important;
+}
+.scheme_default .star-rating span {
+  color: $second-color !important;
+}
+.scheme_default .pubzinne_shop_mode_buttons a {
+  background: $second-color !important;
+  color: #fff !important;
+}
+
+.woocommerce ul.products li.product .post_header a:hover {
+  background: transparent !important;
+}
+a.add_to_cart_button.sc_button_hover_slide_left,
+.woocommerce nav.woocommerce-pagination ul li span.current {
+  color: #fff !important;
+  background: $second-color !important;
+  border: none !important;
+}
+.elementor-93
+  .elementor-element.elementor-element-b766a11
+  .elementor-button[type="submit"] {
+  color: #fff !important;
+  background: $second-color !important;
+}
+button.single_add_to_cart_button.sc_button_hover_slide_left {
+  color: #fff !important;
+  background: $second-color !important;
+}
+.scheme_default
+  .single-product
+  div.product
+  .woocommerce-tabs
+  .wc-tabs
+  li.active
+  a {
+  color: #fff !important;
+}
+
+.scheme_default
+  .single-product
+  div.product
+  .woocommerce-tabs
+  .wc-tabs
+  li:not(.active)
+  a:hover {
+  color: #fff !important;
+  background: $second-color !important;
+}
+.scheme_default ul > li:before {
+  display: none !important;
+}
+.scheme_default .sc_layouts_menu_nav > li > a {
+  padding: 10px 15px !important;
+}
