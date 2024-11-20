@@ -91,8 +91,46 @@ button.single_add_to_cart_button.sc_button_hover_slide_left {
 .scheme_default .sc_layouts_menu_nav > li > a {
   padding: 10px 15px !important;
 }
-.menu-item.menu-item-has-children{
-  .menu-item a{
+.menu-item.menu-item-has-children {
+  .menu-item a {
     padding-left: 20px !important;
   }
+}
+
+.scheme_default .sc_blogger .sc_blogger_item_title a {
+  background: none !important ;
+}
+
+.elementor-menu-cart--items-indicator-bubble
+  .elementor-menu-cart__toggle
+  .elementor-button-icon
+  .elementor-button-icon-qty[data-counter] {
+  min-width: 1em;
+  height: 1em;
+  line-height: 1em;
+}
+.scheme_default .sc_button_hover_style_alter.sc_button_hover_slide_left {
+  color: white !important;
+}
+@media (max-width: 920px) {
+  .sc_layouts_item_details.sc_layouts_login_details {
+    display: none;
+  }
+  .sc_layouts_dropdown li.menu-item.menu-item-has-children > a:after {
+    display: none;
+  }
+}
+
+.scheme_default .sc_blogger .sc_blogger_item_title a {
+  background: none !important ;
+}
+.scheme_default
+  .sc_icons_extra
+  .sc_icons_item
+  .sc_icons_icon
+  .sc_icon_extra_title {
+  display: none;
+}
+.page-template-default .scheme_default .sc_button_hover_slide_left {
+  color: #ffffff !important;
 }
